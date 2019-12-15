@@ -37,7 +37,7 @@ Display all areas without brewery
 Create a function which paginate the beers list, the number by page is 10 and display the second page
 
 ## Exercice 8
-Display the fermentation type the most used par country
+Display the fermentation type the most used per country
 
 ## Exercice 9
 Display the average of alcohol degrees of beers in france
