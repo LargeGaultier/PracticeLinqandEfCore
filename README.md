@@ -10,7 +10,7 @@ Some exercices to practice linq and EF Core from basic to advanced
 
 **step 3 :** Setup connection string in main.cs
 
-##DataBase schema
+## DataBase schema
 
 ![alt text](https://github.com/LargeGaultier/PracticeLinqandEfCore/blob/master/PracticeLinqEfCore/DbSchema.png "DbSchema")
 
@@ -31,9 +31,13 @@ Display all brewery that produce all kind of beer?
 Display the top ten of the beers with the highest alcohol degrees
 
 
-##ressources
+## ressources
 
-https://gallery.mailchimp.com/659e2cbd2829799e7dc94ae35/files/5aa535aa-5f9f-4a7f-8d67-134479ef5a08/EF_Core_Cheat_Sheet.pdf
+[Cheat sheet EF Core](https://gallery.mailchimp.com/659e2cbd2829799e7dc94ae35/files/5aa535aa-5f9f-4a7f-8d67-134479ef5a08/EF_Core_Cheat_Sheet.pdf)
+
+[EF Core Tutorial](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx)
+
+
 
 ---
-Thanks to Michel Girard for database 
+Thanks to Michel Girard for database and queries
