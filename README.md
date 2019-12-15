@@ -17,7 +17,7 @@ Display all beers name
 Display all beers name with their brewery's name
 
 ## Exercice 3
-Display all biere from france
+Display all beers from france
 
 ## Exercice 4
 Display all brewery that produce all kind of beer?
