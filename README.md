@@ -25,7 +25,7 @@ Display all beers name with their brewery's name
 Display all beers from france
 
 ## Exercice 4
-Display all brewery that produce all kind of beer?
+Display all brewery that produce all kind of beer
 
 ## Exercice 5
 Display the top ten of the beers with the highest alcohol degrees
