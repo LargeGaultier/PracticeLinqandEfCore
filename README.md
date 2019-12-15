@@ -1,6 +1,6 @@
-# PracticeLinqandEfCore
+# Practice Linq and Entity framework Core
 
-Come exercice to practice linq and Ef Core
+Some exercices to practice linq and EF Core from basic to advanced
 
 ## project initialization
 
