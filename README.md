@@ -1,6 +1,6 @@
 # Practice Linq and Entity framework Core
 
-Some exercices to practice linq and EF Core from basic to advanced
+Some exercices to practice linq and EF Core from basic to advanced to querying data
 
 ## project initialization
 
@@ -14,13 +14,12 @@ Some exercices to practice linq and EF Core from basic to advanced
 
 ![alt text](https://github.com/LargeGaultier/PracticeLinqandEfCore/blob/master/PracticeLinqEfCore/DbSchema.png "DbSchema")
 
-
 ## Exercice 1 
 Display all beers name
 
 ## Exercice 2
-Display all beers name with their brewery's name
-With only a select then only with include and compare the processing time
+Display all beers name with their brewery's name.  
+With only a select, then only with include and compare the processing time
 
 ## Exercice 3
 Display all beers from france
@@ -29,11 +28,22 @@ Display all beers from france
 Display number of beer by color
 
 ## Exercice 5
-Display all brewery that produce all kind of beer
-
-## Exercice 6
 Display the top ten of the beers with the highest alcohol degrees
 
+## Exercice 6
+Display all areas without brewery
+
+## Exercice 7
+Create a function which paginate the beers list, the number by page is 10 and display the second page
+
+## Exercice 8
+Display the fermentation type the most used par country
+
+## Exercice 9
+Display the average of alcohol degrees of beers in france
+
+## Exercice 10
+Display all breweries that produce all kind of beer
 
 ## Resources
 
