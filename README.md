@@ -28,5 +28,5 @@ Display the top ten of the beers with the highest alcohol degrees
 
 
 
-
+---
 Thanks to Michel Girard for database 
