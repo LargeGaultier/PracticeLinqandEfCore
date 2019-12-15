@@ -10,10 +10,23 @@ Come exercice to practice linq and Ef Core
 
 **step 3 :** Setup connection string in main.cs
 
-## Exercice 1 :**
+## Exercice 1 
+Display all beers name
 
-Display all biere
+## Exercice 2
+Display all beers name with their brewery's name
+
+## Exercice 3
+Display all biere from france
+
+## Exercice 4
+Display all brewery that produce all kind of beer?
+
+## Exercice 5
+Display the top ten of the beers with the highest alcohol degrees
 
 
 
-Thanks to Michel Girard for database and Queries
+
+
+Thanks to Michel Girard for database 
