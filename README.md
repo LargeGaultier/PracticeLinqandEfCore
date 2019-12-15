@@ -31,7 +31,7 @@ Display all brewery that produce all kind of beer
 Display the top ten of the beers with the highest alcohol degrees
 
 
-## ressources
+## Resources
 
 [Cheat sheet EF Core](https://gallery.mailchimp.com/659e2cbd2829799e7dc94ae35/files/5aa535aa-5f9f-4a7f-8d67-134479ef5a08/EF_Core_Cheat_Sheet.pdf)
 
