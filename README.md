@@ -20,14 +20,18 @@ Display all beers name
 
 ## Exercice 2
 Display all beers name with their brewery's name
+With only a select then only with include and compare the processing time
 
 ## Exercice 3
 Display all beers from france
 
 ## Exercice 4
-Display all brewery that produce all kind of beer
+Display number of beer by color
 
 ## Exercice 5
+Display all brewery that produce all kind of beer
+
+## Exercice 6
 Display the top ten of the beers with the highest alcohol degrees
 
 
